@@ -26,7 +26,7 @@
           "Advisor: Prof. Rio Yokota",
           "Researched 2D object detection, and change detection",
           "Researched hyper-parameter optimization for deep learning",
-          "Developed a hyper-parameter optimization library for a distributed GPU cluster (https://polaris.readthedocs.io)",
+          "Developed a hyper-parameter optimization library for a distributed GPU cluster",
           "Summa Cum Laude in Computerv Science Cource"
         ]
       },
@@ -67,7 +67,7 @@
           "指導教員: 横田理央 准教授",
           "変化検出および物体検出に関する研究",
           "深層学習モデルのハイパーパラメタ最適化に関する研究",
-          "分散GPUハイパーパラメタ最適化ライブラリの開発 (https://polaris.readthedocs.io)",
+          "分散GPUハイパーパラメタ最適化ライブラリの開発",
           "情報工学系 情報工学コース 総代"
         ]
       },
