@@ -21,20 +21,6 @@ export const rootStyles = (theme: Theme) => createStyles({
     paddingTop: theme.spacing(2),
   },
   contentSubTitle: {
-    '&:before': {
-      '@media (max-width: 600px)': {
-        height: '0.4rem',
-        top: '2.5rem',
-      },
-      background: '#00a968',
-      bottom: '5px',
-      content: "''",
-      height: '0.7rem',
-      position: 'absolute',
-      top: '3rem',
-      width: '100%',
-      zIndex: -1,
-    },
     '@media (max-width: 1280px)': {
       margin: '0 auto',
       textAlign: 'center',
