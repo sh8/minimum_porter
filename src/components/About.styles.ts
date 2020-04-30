@@ -48,7 +48,7 @@ export const styles = (theme: Theme) => createStyles({
     margin: '0',
   },
   profileImage: {
-    '@media (max-width: 960px)': {
+    '@media (max-width: 959px)': {
       left: '50%',
       transform: 'translate(-50%, -50%)',
       width: '70%',
