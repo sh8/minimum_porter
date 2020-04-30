@@ -36,7 +36,6 @@ export const styles = (theme: Theme) => createStyles({
       fontSize: '1rem',
     },
     fontSize: '1.2rem',
-    fontWeight: 'bold',
   },
   listBody: {
     '@media (max-width: 600px)': {
