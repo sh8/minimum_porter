@@ -33,7 +33,10 @@
       {
         "name": "Carnegie Mellon University, M.S in Robotics",
         "startYear": "2020",
-        "endYear": "2022?"
+        "endYear": "2022?",
+        "description": [
+          "Advisor: Prof. Kris Kitani"
+        ]
       }
     ],
     "img": {
@@ -74,7 +77,10 @@
       {
         "name": "カーネギーメロン大学 ロボティクス研究所 修士課程",
         "startYear": "2020",
-        "endYear": "2022?"
+        "endYear": "2022?",
+        "description": [
+          "指導教員: Prof. Kris Kitani"
+        ]
       }
     ],
     "img": {
