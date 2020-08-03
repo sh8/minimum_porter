@@ -6,6 +6,69 @@
       "title": "Publications",
       "items": [
         {
+          "title": "Epipolar-Guided Deep Object Matching for Scene Change Detection",
+          "authors": [
+            {
+              "name": "Kento Doi",
+              "isMe": false
+            },
+            {
+              "name": "Ryuhei Hamaguchi",
+              "isMe": false
+            },
+            {
+              "name": "Shun Iwase",
+              "isMe": true
+            },
+            {
+              "name": "Rio Yokota",
+              "isMe": false
+            },
+            {
+              "name": "Yutaka Matsuo",
+              "isMe": false
+            },
+            {
+              "name": "Ken Sakurada",
+              "isMe": false
+            }
+          ],
+          "conference": "Arxiv"
+        },
+        {
+          "title": "Verification of the Reducing the Number of Iterations in Large Mini-Batch Training by Applying Mixup",
+          "authors": [
+            {
+              "name": "Hiroki Naganuma",
+              "isMe": false
+            },
+            {
+              "name": "Shun Iwase",
+              "isMe": true
+            },
+            {
+              "name": "Rio Yokota",
+              "isMe": false
+            }
+          ],
+          "conference": "xSig2019",
+          "url": "https://arxiv.org/abs/2007.15540"
+        },
+        {
+          "title": "Object-based scene change detection considering attributes of change",
+          "authors": [
+            {
+              "name": "Shun Iwase",
+              "isMe": true
+            },
+            {
+              "name": "Ken Sakurada",
+              "isMe": false
+            }
+          ],
+          "conference": "MIRU2019"
+        },
+        {
           "title": "Hyperparameter Optimization of Large Scale Parallel Deep Learning using Natural Gradient Approximation Method",
           "authors": [
             {
@@ -31,38 +94,6 @@
           ],
           "conference": "FIT2018",
           "url": "https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/B-005.html"
-        },
-        {
-          "title": "Object-based scene change detection considering attributes of change",
-          "authors": [
-            {
-              "name": "Shun Iwase",
-              "isMe": true
-            },
-            {
-              "name": "Ken Sakurada",
-              "isMe": false
-            }
-          ],
-          "conference": "MIRU2019"
-        },
-        {
-          "title": "Verification of the Reducing the Number of Iterations in Large Mini-Batch Training by Applying Mixup",
-          "authors": [
-            {
-              "name": "Hiroki Naganuma",
-              "isMe": false
-            },
-            {
-              "name": "Shun Iwase",
-              "isMe": true
-            },
-            {
-              "name": "Rio Yokota",
-              "isMe": false
-            }
-          ],
-          "conference": "xSig2019"
         }
       ]
     }
@@ -72,6 +103,68 @@
     "publications": {
       "title": "Publications",
       "items": [
+        {
+          "title": "Epipolar-Guided Deep Object Matching for Scene Change Detection",
+          "authors": [
+            {
+              "name": "Kento Doi",
+              "isMe": false
+            },
+            {
+              "name": "Ryuhei Hamaguchi",
+              "isMe": false
+            },
+            {
+              "name": "Shun Iwase",
+              "isMe": true
+            },
+            {
+              "name": "Rio Yokota",
+              "isMe": false
+            },
+            {
+              "name": "Yutaka Matsuo",
+              "isMe": false
+            },
+            {
+              "name": "Ken Sakurada",
+              "isMe": false
+            }
+          ],
+          "conference": "Arxiv"
+        },
+        {
+          "title": "Mixup適用によるラージバッチ学習における反復数削減可能性の検証",
+          "authors": [
+            {
+              "name": "長沼 大樹",
+              "isMe": false
+            },
+            {
+              "name": "岩瀨 駿",
+              "isMe": true
+            },
+            {
+              "name": "横田 理央",
+              "isMe": false
+            }
+          ],
+          "conference": "xSig2019"
+        },
+        {
+          "title": "変化の属性を考慮した物体レベルのシーン変化検出",
+          "authors": [
+            {
+              "name": "岩瀨 駿",
+              "isMe": true
+            },
+            {
+              "name": "櫻田 健",
+              "isMe": false
+            }
+          ],
+          "conference": "MIRU2019"
+        },
         {
           "title": "自然勾配近似法を用いた大規模並列深層学習におけるハイパーパラメータ最適化",
           "authors": [
@@ -98,38 +191,6 @@
           ],
           "conference": "FIT2018",
           "url": "https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/B-005.html"
-        },
-        {
-          "title": "変化の属性を考慮した物体レベルのシーン変化検出",
-          "authors": [
-            {
-              "name": "岩瀨 駿",
-              "isMe": true
-            },
-            {
-              "name": "櫻田 健",
-              "isMe": false
-            }
-          ],
-          "conference": "MIRU2019"
-        },
-        {
-          "title": "Mixup適用によるラージバッチ学習における反復数削減可能性の検証",
-          "authors": [
-            {
-              "name": "長沼 大樹",
-              "isMe": false
-            },
-            {
-              "name": "岩瀨 駿",
-              "isMe": true
-            },
-            {
-              "name": "横田 理央",
-              "isMe": false
-            }
-          ],
-          "conference": "xSig2019"
         }
       ]
     }
