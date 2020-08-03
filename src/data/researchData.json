@@ -33,7 +33,8 @@
               "isMe": false
             }
           ],
-          "conference": "Arxiv"
+          "conference": "Arxiv",
+          "url": "https://arxiv.org/abs/2007.15540"
         },
         {
           "title": "Verification of the Reducing the Number of Iterations in Large Mini-Batch Training by Applying Mixup",
@@ -51,8 +52,7 @@
               "isMe": false
             }
           ],
-          "conference": "xSig2019",
-          "url": "https://arxiv.org/abs/2007.15540"
+          "conference": "xSig2019"
         },
         {
           "title": "Object-based scene change detection considering attributes of change",
@@ -131,7 +131,8 @@
               "isMe": false
             }
           ],
-          "conference": "Arxiv"
+          "conference": "Arxiv",
+          "url": "https://arxiv.org/abs/2007.15540"
         },
         {
           "title": "Mixup適用によるラージバッチ学習における反復数削減可能性の検証",
