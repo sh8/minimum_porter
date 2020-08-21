@@ -1,20 +1,20 @@
 {
   "en": {
     "title": "Shun Iwase",
-    "role": "1st year PhD student at Tokyo Institute of Technology",
-    "subRole": "School of Computing, Department of Computer Science",
+    "role": "1st year masters student at Carnegie Mellon University",
+    "subRole": "Robotics Institute, School of Computer Science",
     "twitter": "https://twitter.com/_sh_8_",
     "linkdin": "https://www.linkedin.com/in/shun-iwase-03139a151/",
     "github": "https://github.com/sh8",
-    "description": "I am currently a Ph.D student in Yokota Lab, TokyoTech. My research interests lie in computer vision, computer graphics, imitation learning, and machine learning. Recently, I am interested in 3D pose estimation, action planning, and simulation-based imitation learning, with the goal of developing advanced autonomous robots."
+    "description": "I am a masters student in Kris Kitani's Lab, CMU. My research interests lie in computer vision, computer graphics, imitation learning, and machine learning. Recently, I am interested in 3D pose estimation, action planning, and simulation-based imitation learning, with the goal of developing advanced autonomous robots."
   },
   "jp": {
     "title": "岩瀨 駿",
-    "role": "東京工業大学 博士1年",
-    "subRole": "情報理工学院 情報工学系",
+    "role": "カーネギーメロン大学 修士1年",
+    "subRole": "情報工学科 ロボティクス研究所",
     "twitter": "https://twitter.com/_sh_8_",
     "linkdin": "https://www.linkedin.com/in/shun-iwase-03139a151/",
     "github": "https://github.com/sh8",
-    "description": "現在, 横田理央研究室に所属しており, コンピュータビジョン / コンピュータグラフィクス / 模倣学習 / 機械学習に関連した分野の研究に取り組んでいます. 最近は, 高度な自律ロボットの実現を目標とした, 物体の3D姿勢推定や行動計画, シミュレーションを用いた模倣学習などに興味があります."
+    "description": "現在, Kris Kitani研究室に所属しており, コンピュータビジョン / コンピュータグラフィクス / 模倣学習 / 機械学習に関連した分野の研究に取り組んでいます. 最近は, 高度な自律ロボットの実現を目標とした, 物体の3D姿勢推定や行動計画, シミュレーションを用いた模倣学習などに興味があります."
   }
 }
